@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class Arith {
+class arith {
     public static void main(String[] args) {
         int a, b;
         Scanner s = new Scanner(System.in);
